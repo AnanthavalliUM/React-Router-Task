@@ -1,0 +1,13 @@
+.fsd-container{
+    min-height: 70%;
+    width: 100%;
+}
+.row{
+    display:flex;
+  margin: 10px;
+  justify-content: center;
+  align-items:center;
+  flex-wrap: wrap;
+  
+}
+    

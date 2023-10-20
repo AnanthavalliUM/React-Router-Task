@@ -1,0 +1,36 @@
+/* .card-body {
+    height:300px;
+    width:200px;
+    display:flex;
+    /* flex-direction: column;
+    align-items: center;
+    justify-content: center; */
+
+
+/* 
+/* .card{
+    height:200px;
+    width:300px;
+    display:flex;
+    flex-direction:column;
+    gap: 20px;
+   
+} */
+/* .card-body{
+    display: flex;
+    gap: 20px;
+    flex-direction:column;
+
+
+} */ 
+
+.card{
+    height:200px;
+    width:300px;
+    display:flex;
+    gap: 20px;
+    flex-direction: column;
+    
+   
+}
+

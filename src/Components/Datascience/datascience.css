@@ -1,0 +1,12 @@
+.datascience-container{
+    min-height: 50%;
+    width: 100%;
+}
+.row{
+    display:flex;
+  margin: 10px;
+  justify-content: space-between;
+  align-items:center;
+  flex-wrap: wrap;
+}
+    

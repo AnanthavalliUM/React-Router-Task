@@ -1,0 +1,13 @@
+.nav-blog{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blog{
+ font-weight: 700;
+}
+.blog:hover{
+    color: #0CBA4B;
+    text-decoration: underline;
+}
